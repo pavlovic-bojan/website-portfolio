@@ -7,7 +7,7 @@ Hi! This is my Website portfolio where I share a few of the websites I’ve crea
 ## Projects
 
 ### [Auto Servis Valex](https://autoservisvalex.com/)
-<img src="screenshot/autoservisvalex.png" alt="Auto Servis Valex Screenshot" width="600" height="600" />
+![Auto Servis Valex Screenshot](screenshot/autoservisvalex.png)
 
 - **Description:** A website for a local auto service in Belgrade, showcasing the services offered and contact information.
 - **What I did:** WordPress theme tweaks, service listing setup, contact form integration, hosting, maintenance, and SEO optimization.
@@ -16,7 +16,7 @@ Hi! This is my Website portfolio where I share a few of the websites I’ve crea
 ---
 
 ### [Geo Target](https://www.geotarget.rs/)
-<img src="screenshot/geotarget.png" alt="Geo Target Screenshot" width="600" height="600" />
+![Geo Target Screenshot](screenshot/geotarget.png)
 
 - **Description:** A portfolio website for a land surveyor offering professional services, featuring an integrated contact form and map for easy location access.
 - **What I did:** WordPress theme customization (Elementor), service listing setup, contact form and map integration, hosting, maintenance, and SEO optimization.
