@@ -10,7 +10,7 @@ Hi! This is my Website portfolio where I share a few of the websites I’ve crea
 ![Geo Target Screenshot](screenshot/geotarget.png)
 
 - **Description:** A portfolio website for a land surveyor offering professional services, featuring an integrated contact form and map for easy location access.
-- **What I did:** WordPress theme customization (Elementor), service listing setup, contact form and map integration, hosting, maintenance, and SEO optimization.
+- **What I did:** WordPress theme customization, service listing setup, contact form and map integration, hosting, maintenance, and SEO optimization.
 - **Year:** 2020
 
 ---
