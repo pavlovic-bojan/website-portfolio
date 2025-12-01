@@ -6,8 +6,6 @@ Hi! This is my Website portfolio where I share a few of the websites I’ve crea
 
 ## Projects
 
-## Projects
-
 ### [Vodaqua](https://vodaqua.rs/)
 ![Vodaqua Screenshot](screenshot/vodaqua.png)
 
