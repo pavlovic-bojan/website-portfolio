@@ -6,6 +6,18 @@ Hi! This is my Website portfolio where I share a few of the websites I’ve crea
 
 ## Projects
 
+## Projects
+
+### [Vodaqua](https://vodaqua.rs/)
+![Vodaqua Screenshot](screenshot/vodaqua.png)
+
+- **Description:** Webshop for a local plumbing company that will sell boilers and all other materials that households need, as well as plumbing services
+- **What I did:** Developed a custom WordPress child theme with advanced functionalities implemented via functions.php, created two custom plugins [Montaza Bojlera](https://github.com/pavlovic-bojan/montaza-bojlera)
+ and [WP Brand Display](https://github.com/pavlovic-bojan/wp-brand-dispaly), handled CSS styling to match the design requirements, set up service listings, handled SEO optimization, and prepared campaigns for Google Ads and Meta Ads.
+- **Year:** 2025
+
+---
+
 ### [Geo Target](https://www.geotarget.rs/)
 ![Geo Target Screenshot](screenshot/geotarget.png)
 
